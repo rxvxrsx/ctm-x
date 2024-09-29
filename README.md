@@ -22,21 +22,21 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/rxvxrsx/ctm
+git clone https://github.com/rxvxrsx/ctm-x
 
 ```
 
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/rxvxrsx/ctm
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/rxvxrsx/ctm-x
 
 ```
 
 ### FOR RUN :
 
 ```
-cd ctm
+cd ctm-x
 
 python ctm.py
 
